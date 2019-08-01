@@ -1,0 +1,21 @@
+#dd1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px; 
+}
+#dd3{
+    float: left;
+}
+#dd4{
+    padding-left: 170px;
+    float: left;
+}
+table, th, td{
+    
+    border: 1px solid black;
+    border-collapse: seperate;
+    padding: 10px;
+    border-spacing: 0;
+  }
+
